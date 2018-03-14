@@ -1,0 +1,36 @@
+#intro_section {
+    width:960px;
+    margin:0 auto;
+}
+
+#bear_text {
+    width:600px;
+    float:left;
+}
+
+#intro_bear_img {
+    width:360px;
+    float:left;
+}
+
+header {
+    padding-top:20px;
+    padding-bottom:20px;
+    background-color:lightgray;
+    width:960px;
+    margin:0 auto;
+    border-bottom:5px solid #777;
+}
+
+.text{
+    font: 1em sans-serif;
+}
+
+#clearDiv {
+    clear:both;
+}
+
+#homeLink {
+    width:960px;
+    margin:0 auto;
+}
