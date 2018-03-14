@@ -6,6 +6,8 @@
 #bear_text {
     width:600px;
     float:left;
+    background-color:whitesmoke;
+    opacity: 0.5;
 }
 
 #intro_bear_img {
@@ -33,4 +35,8 @@ header {
 #homeLink {
     width:960px;
     margin:0 auto;
+}
+
+body {
+    background-image: url("http://npplan.com/wp-content/uploads/2015/01/Blue-Ridge-Parkway-399.jpg");
 }
